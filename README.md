@@ -1,0 +1,2 @@
+# JichikaiDX-EventNotifier
+Googleフォームからのイベント申し込みを、自治会の各担当委員会に自動メール通知し、スプレッドシートに集計する自治会DXシステム（GAS使用）。
